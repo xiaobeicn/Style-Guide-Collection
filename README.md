@@ -19,9 +19,6 @@
 ### E
 * [elasticsearch-definitive-guide](https://github.com/GavinFoo/elasticsearch-definitive-guide)
 
-### F
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines)
-
 ### G
 * [git-style-guide](https://github.com/agis-/git-style-guide)
 
