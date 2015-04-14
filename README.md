@@ -30,6 +30,9 @@
 * Elasticsearch
     + [GavinFoo/elasticsearch-definitive-guide](https://github.com/GavinFoo/elasticsearch-definitive-guide)
 
+* Elixir
+    + [niftyn8/elixir_style_guide](https://github.com/niftyn8/elixir_style_guide)
+
 ### G
 
 * Git
@@ -62,7 +65,7 @@
 
 * PHP
     + [php-fig/php-fig-standards](https://github.com/php-fig/fig-standards)
- 
+
 * Pyton
     + [kennethreitz/python-guide](https://github.com/kennethreitz/python-guide)
 
@@ -72,7 +75,14 @@
     + [bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
     + [airbnb/ruby-style-guide](https://github.com/airbnb/ruby)
 
+* Rails
+    + [bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
+
 ### S
+
+* Scala
+    + [databricks/scala-style-guide](https://github.com/databricks/scala-style-guide)
+    + [paypal/scala-style-guide](https://github.com/paypal/scala-style-guide)
 
 * Swift
     + [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
