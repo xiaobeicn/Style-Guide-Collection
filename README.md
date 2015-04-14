@@ -27,6 +27,7 @@
 
 ### J
 * [javascript-style-guide](https://github.com/adamlu/javascript-style-guide)
+* [javascript](https://github.com/airbnb/javascript)
 
 ### N
 * [node-style-guide](https://github.com/felixge/node-style-guide)
@@ -42,6 +43,7 @@
 
 ### R
 * [ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
+* [ruby-style-guide](https://github.com/airbnb/ruby)
 
 ### S
 * [swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
