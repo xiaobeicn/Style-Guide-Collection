@@ -42,6 +42,7 @@
 
 * RESTful API
     + [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)
+    + [RESTful Cookbook](http://restcookbook.com/)
 
 ### J
 
