@@ -38,12 +38,6 @@
 * Git
     + [agis-/git-style-guide](https://github.com/agis-/git-style-guide)
 
-### H
-
-* RESTful API
-    + [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)
-    + [RESTful Cookbook](http://restcookbook.com/)
-
 ### J
 
 * Javascript
@@ -76,6 +70,10 @@
     + [bbatsov/ruby-style-guide](https://github.com/bbatsov/ruby-style-guide)
     + [airbnb/ruby-style-guide](https://github.com/airbnb/ruby)
 
+* RESTful API
+    + [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)
+    + [restcookbook/restcookbook](http://restcookbook.com/)
+    
 * Rails
     + [bbatsov/rails-style-guide](https://github.com/bbatsov/rails-style-guide)
 
