@@ -28,7 +28,7 @@
 ### E
 
 * Elasticsearch
-    + [GavinFoo/elasticsearch-definitive-guide](https://github.com/GavinFoo/elasticsearch-definitive-guide)[Chinese]
+    + [GavinFoo/elasticsearch-definitive-guide](https://github.com/GavinFoo/elasticsearch-definitive-guide) :cn:
 
 * Elixir
     + [niftyn8/elixir_style_guide](https://github.com/niftyn8/elixir_style_guide)
@@ -41,7 +41,7 @@
 ### J
 
 * Javascript
-    + [adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide)[Chinese]
+    + [adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide) :cn:
     + [airbnb/javascript](https://github.com/airbnb/javascript)
 
 ### N
@@ -71,7 +71,7 @@
     + [airbnb/ruby-style-guide](https://github.com/airbnb/ruby)
 
 * RESTful API
-    + [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide)[Chinese]
+    + [bolasblack/http-api-guide](https://github.com/bolasblack/http-api-guide) :cn:
     + [restcookbook/restcookbook](http://restcookbook.com/)
     
 * Rails
