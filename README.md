@@ -48,6 +48,7 @@
 
 * Nodejs
     + [felixge/node-style-guide](https://github.com/felixge/node-style-guide)
+    + [RisingStack/node-style-guide](https://github.com/RisingStack/node-style-guide)
 
 ### O
 
