@@ -43,6 +43,7 @@
 * Javascript
     + [adamlu/javascript-style-guide](https://github.com/adamlu/javascript-style-guide) :cn:
     + [airbnb/javascript](https://github.com/airbnb/javascript)
+    + [yuche/javascript](https://github.com/yuche/javascript) :cn:
 
 ### N
 
