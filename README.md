@@ -88,6 +88,7 @@
 * Swift
     + [raywenderlich/swift-style-guide](https://github.com/raywenderlich/swift-style-guide)
     + [github/swift-style-guide](https://github.com/github/swift-style-guide)
+    + [ipader/SwiftGuide)](https://github.com/ipader/SwiftGuide) :cn:
 
 ### W
 
